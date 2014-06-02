@@ -10,3 +10,8 @@ Enjoy Developing !
 
 TODO
 * 開発環境！
+Android API Taget
+* 4.2
+* 4.0
+* 3.0
+* 2.3
